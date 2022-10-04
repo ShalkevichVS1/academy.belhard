@@ -4,7 +4,6 @@ public class User extends Person {
 
    private String email;
    private String password;
-   private String firstName;
 
 
     public User(String firstName, String lastName, String email, String password) {
